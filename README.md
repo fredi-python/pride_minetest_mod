@@ -1,2 +1,3 @@
-# pride_minetest_mod
+# Pride Mod for Minetest
+
 Work in progress pride mod for Minetest
